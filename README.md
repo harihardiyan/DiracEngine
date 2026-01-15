@@ -245,7 +245,7 @@ When you run the engine, it generates a structured log:
 - `src/dirac_engine.py`: The core computational engine (JIT-compiled).
 - `docs/api.md`: Detailed technical documentation of every function.
 - `tests/`: Unit tests for physical sanity (Decoupling tests).
-- `data/`: (Optional) Storage for computed Berry curvature maps.
+
 
 ## 7. API Reference
 See [docs/api.md](docs/api.md) for detailed information on:
