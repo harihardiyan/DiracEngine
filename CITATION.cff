@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hardiyan"
+  given-names: "Hari"
+  email: "lorozloraz@gmail.com"
+title: "DiracEngine: Audit-Grade Wilson-Loop Framework for Dirac Materials"
+version: 1.0.0
+date-released: 2024-05-20
+url: "https://github.com/harihardiyan/DiracEngine"
