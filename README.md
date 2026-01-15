@@ -156,6 +156,19 @@ This is not a failure of the method —
 it is a scientifically meaningful result.
 
 ---
+## 🔍 Visualizations
+
+### Wilson Loop Phase Distribution
+![Phase Histogram](figures/phase_hist.png)
+
+### Masked Plaquette Map
+![Masked Plaquettes](figures/masked_map.png)
+
+### Band Gap Map
+![Gap Map](figures/gap_map.png)
+
+### Kubo Berry Curvature Along Ring
+![Kubo Ring](figures/kubo_ring.png)
 
 
 
