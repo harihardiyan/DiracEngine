@@ -1,0 +1,316 @@
+
+=== graphene_kane_mele_ideal ===
+DiracGrapheneSpec(name='graphene_kane_mele_ideal', vF=1.0e+06 m/s, Delta=0.00e+00 eV, lambda_SO=1.00e-03 eV, lambda_R=5.00e-03 eV)
+Energetic audit at k=(0.000e+00,0.000e+00), tau=+1
+  max|H - H†|      = 0.0
+  max|U†U - I|     = 2.220446049250313e-16
+Convergence check for valley_berry (tau=1, band=1):
+  -- grid = 21 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 400
+  [Wilson] plaquettes masked    = 4 (0.010 of total)
+  [Wilson] phase/(2π) stats     = min -0.250, max 0.000, mean -0.002
+  -- grid = 25 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 576
+  [Wilson] plaquettes masked    = 4 (0.007 of total)
+  [Wilson] phase/(2π) stats     = min -0.000, max 0.313, mean 0.002
+  -- grid = 31 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 900
+  [Wilson] plaquettes masked    = 4 (0.004 of total)
+  [Wilson] phase/(2π) stats     = min -0.000, max 0.313, mean 0.001
+  -- grid = 41 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 1600
+  [Wilson] plaquettes masked    = 4 (0.003 of total)
+  [Wilson] phase/(2π) stats     = min -0.250, max 0.000, mean -0.001
+  Grid   Q(grid)    |Q(grid) - Q_ref|
+    21  +0.0000       0.0000
+    25  +0.0000       0.0000
+    31  +0.0000       0.0000
+    41  +0.0000       0.0000
+Convergence check for valley_berry (tau=-1, band=1):
+  -- grid = 21 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 400
+  [Wilson] plaquettes masked    = 4 (0.010 of total)
+  [Wilson] phase/(2π) stats     = min -0.250, max 0.000, mean -0.003
+  -- grid = 25 --
+  [Wilson] min gap on patch (band 1) = 4.702e-38 J
+  [Wilson] plaquettes total     = 576
+  [Wilson] plaquettes masked    = 4 (0.007 of total)
+  [Wilson] phase/(2π) stats     = min -0.313, max 0.000, mean -0.002
+  -- grid = 31 --
+  [Wilson] min gap on patch (band 1) = 4.702e-38 J
+  [Wilson] plaquettes total     = 900
+  [Wilson] plaquettes masked    = 4 (0.004 of total)
+  [Wilson] phase/(2π) stats     = min -0.438, max 0.000, mean -0.001
+  -- grid = 41 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 1600
+  [Wilson] plaquettes masked    = 4 (0.003 of total)
+  [Wilson] phase/(2π) stats     = min -0.250, max 0.000, mean -0.001
+  Grid   Q(grid)    |Q(grid) - Q_ref|
+    21  +0.0000       0.0000
+    25  +0.0000       0.0000
+    31  +0.0000       0.0000
+    41  +0.0000       0.0000
+Wilson valley charges (band 1):
+  K : 0.0
+  K': 0.0
+  sum = 0.0
+  Kubo ring probe (mean Ω on ring): 4.965171217267715e+22
+  Kubo ring probe (max |Ω| on ring): 6.240587195517107e+40
+
+=== graphene_on_hBN_like ===
+DiracGrapheneSpec(name='graphene_on_hBN_like', vF=9.0e+05 m/s, Delta=5.00e-02 eV, lambda_SO=5.00e-03 eV, lambda_R=5.00e-03 eV)
+Energetic audit at k=(0.000e+00,0.000e+00), tau=+1
+  max|H - H†|      = 0.0
+  max|U†U - I|     = 2.220446049250313e-16
+Convergence check for valley_berry (tau=1, band=1):
+  -- grid = 21 --
+  [Wilson] min gap on patch (band 1) = 1.621e-21 J
+  [Wilson] plaquettes total     = 400
+  [Wilson] plaquettes masked    = 0 (0.000 of total)
+  [Wilson] phase/(2π) stats     = min 0.000, max 0.042, mean 0.002
+  -- grid = 25 --
+  [Wilson] min gap on patch (band 1) = 1.621e-21 J
+  [Wilson] plaquettes total     = 576
+  [Wilson] plaquettes masked    = 0 (0.000 of total)
+  [Wilson] phase/(2π) stats     = min 0.000, max 0.031, mean 0.001
+  -- grid = 31 --
+  [Wilson] min gap on patch (band 1) = 1.621e-21 J
+  [Wilson] plaquettes total     = 900
+  [Wilson] plaquettes masked    = 0 (0.000 of total)
+  [Wilson] phase/(2π) stats     = min 0.000, max 0.022, mean 0.001
+  -- grid = 41 --
+  [Wilson] min gap on patch (band 1) = 1.621e-21 J
+  [Wilson] plaquettes total     = 1600
+  [Wilson] plaquettes masked    = 0 (0.000 of total)
+  [Wilson] phase/(2π) stats     = min 0.000, max 0.013, mean 0.001
+  Grid   Q(grid)    |Q(grid) - Q_ref|
+    21  +0.0000       0.0000
+    25  +0.0000       0.0000
+    31  +0.0000       0.0000
+    41  +0.0000       0.0000
+Convergence check for valley_berry (tau=-1, band=1):
+  -- grid = 21 --
+  [Wilson] min gap on patch (band 1) = 1.621e-21 J
+  [Wilson] plaquettes total     = 400
+  [Wilson] plaquettes masked    = 0 (0.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.042, max -0.000, mean -0.002
+  -- grid = 25 --
+  [Wilson] min gap on patch (band 1) = 1.621e-21 J
+  [Wilson] plaquettes total     = 576
+  [Wilson] plaquettes masked    = 0 (0.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.031, max -0.000, mean -0.001
+  -- grid = 31 --
+  [Wilson] min gap on patch (band 1) = 1.621e-21 J
+  [Wilson] plaquettes total     = 900
+  [Wilson] plaquettes masked    = 0 (0.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.022, max -0.000, mean -0.001
+  -- grid = 41 --
+  [Wilson] min gap on patch (band 1) = 1.621e-21 J
+  [Wilson] plaquettes total     = 1600
+  [Wilson] plaquettes masked    = 0 (0.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.013, max -0.000, mean -0.001
+  Grid   Q(grid)    |Q(grid) - Q_ref|
+    21  +0.0000       0.0000
+    25  +0.0000       0.0000
+    31  +0.0000       0.0000
+    41  +0.0000       0.0000
+Wilson valley charges (band 1):
+  K : 0.0
+  K': 0.0
+  sum = 0.0
+  Kubo ring probe (mean Ω on ring): 9.413896796019885e+30
+  Kubo ring probe (max |Ω| on ring): 4.91554901339395e+40
+
+=== Running decoupling sanity tests ===
+
+=== Decoupling test: pure_dirac ===
+DiracGrapheneSpec(name='pure_dirac', vF=1.0e+06 m/s, Delta=0.00e+00 eV, lambda_SO=0.00e+00 eV, lambda_R=0.00e+00 eV)
+Energetic audit at k=(0.000e+00,0.000e+00), tau=+1
+  max|H - H†|      = 0.0
+  max|U†U - I|     = 0.0
+Convergence check for valley_berry (tau=1, band=1):
+  -- grid = 21 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 400
+  [Wilson] plaquettes masked    = 400 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.499, max 0.499, mean -0.004
+  -- grid = 25 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 576
+  [Wilson] plaquettes masked    = 576 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.500, max 0.500, mean -0.004
+  -- grid = 31 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 900
+  [Wilson] plaquettes masked    = 900 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.499, max 0.498, mean 0.004
+  -- grid = 41 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 1600
+  [Wilson] plaquettes masked    = 1600 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.500, max 0.500, mean -0.008
+  Grid   Q(grid)    |Q(grid) - Q_ref|
+    21  +0.0000       0.0000
+    25  +0.0000       0.0000
+    31  +0.0000       0.0000
+    41  +0.0000       0.0000
+Convergence check for valley_berry (tau=-1, band=1):
+  -- grid = 21 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 400
+  [Wilson] plaquettes masked    = 400 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.499, max 0.499, mean 0.016
+  -- grid = 25 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 576
+  [Wilson] plaquettes masked    = 576 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.500, max 0.500, mean 0.004
+  -- grid = 31 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 900
+  [Wilson] plaquettes masked    = 900 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.498, max 0.499, mean -0.000
+  -- grid = 41 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 1600
+  [Wilson] plaquettes masked    = 1600 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.500, max 0.500, mean 0.010
+  Grid   Q(grid)    |Q(grid) - Q_ref|
+    21  +0.0000       0.0000
+    25  +0.0000       0.0000
+    31  +0.0000       0.0000
+    41  +0.0000       0.0000
+  Wilson valley charges (band 1):
+    K  : 0.0
+    K': 0.0
+    sum = 0.0
+
+=== Decoupling test: km_soc_only ===
+DiracGrapheneSpec(name='km_soc_only', vF=1.0e+06 m/s, Delta=0.00e+00 eV, lambda_SO=1.00e-03 eV, lambda_R=0.00e+00 eV)
+Energetic audit at k=(0.000e+00,0.000e+00), tau=+1
+  max|H - H†|      = 0.0
+  max|U†U - I|     = 0.0
+Convergence check for valley_berry (tau=1, band=1):
+  -- grid = 21 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 400
+  [Wilson] plaquettes masked    = 400 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.499, max 0.499, mean -0.012
+  -- grid = 25 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 576
+  [Wilson] plaquettes masked    = 576 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.500, max 0.500, mean -0.003
+  -- grid = 31 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 900
+  [Wilson] plaquettes masked    = 900 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.500, max 0.500, mean -0.015
+  -- grid = 41 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 1600
+  [Wilson] plaquettes masked    = 1600 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.500, max 0.500, mean -0.002
+  Grid   Q(grid)    |Q(grid) - Q_ref|
+    21  +0.0000       0.0000
+    25  +0.0000       0.0000
+    31  +0.0000       0.0000
+    41  +0.0000       0.0000
+Convergence check for valley_berry (tau=-1, band=1):
+  -- grid = 21 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 400
+  [Wilson] plaquettes masked    = 400 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.499, max 0.500, mean -0.001
+  -- grid = 25 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 576
+  [Wilson] plaquettes masked    = 576 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.500, max 0.500, mean 0.006
+  -- grid = 31 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 900
+  [Wilson] plaquettes masked    = 900 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.500, max 0.500, mean 0.000
+  -- grid = 41 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 1600
+  [Wilson] plaquettes masked    = 1600 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.500, max 0.500, mean -0.005
+  Grid   Q(grid)    |Q(grid) - Q_ref|
+    21  +0.0000       0.0000
+    25  +0.0000       0.0000
+    31  +0.0000       0.0000
+    41  +0.0000       0.0000
+  Wilson valley charges (band 1):
+    K  : 0.0
+    K': 0.0
+    sum = 0.0
+
+=== Decoupling test: delta_only ===
+DiracGrapheneSpec(name='delta_only', vF=1.0e+06 m/s, Delta=5.00e-02 eV, lambda_SO=0.00e+00 eV, lambda_R=0.00e+00 eV)
+Energetic audit at k=(0.000e+00,0.000e+00), tau=+1
+  max|H - H†|      = 0.0
+  max|U†U - I|     = 0.0
+Convergence check for valley_berry (tau=1, band=1):
+  -- grid = 21 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 400
+  [Wilson] plaquettes masked    = 400 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.498, max 0.498, mean -0.003
+  -- grid = 25 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 576
+  [Wilson] plaquettes masked    = 576 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.500, max 0.499, mean 0.016
+  -- grid = 31 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 900
+  [Wilson] plaquettes masked    = 900 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.500, max 0.500, mean 0.001
+  -- grid = 41 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 1600
+  [Wilson] plaquettes masked    = 1600 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.500, max 0.500, mean -0.003
+  Grid   Q(grid)    |Q(grid) - Q_ref|
+    21  +0.0000       0.0000
+    25  +0.0000       0.0000
+    31  +0.0000       0.0000
+    41  +0.0000       0.0000
+Convergence check for valley_berry (tau=-1, band=1):
+  -- grid = 21 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 400
+  [Wilson] plaquettes masked    = 400 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.498, max 0.498, mean 0.000
+  -- grid = 25 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 576
+  [Wilson] plaquettes masked    = 576 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.499, max 0.500, mean -0.012
+  -- grid = 31 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 900
+  [Wilson] plaquettes masked    = 900 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.500, max 0.500, mean -0.003
+  -- grid = 41 --
+  [Wilson] min gap on patch (band 1) = 0.000e+00 J
+  [Wilson] plaquettes total     = 1600
+  [Wilson] plaquettes masked    = 1600 (1.000 of total)
+  [Wilson] phase/(2π) stats     = min -0.500, max 0.500, mean 0.008
+  Grid   Q(grid)    |Q(grid) - Q_ref|
+    21  +0.0000       0.0000
+    25  +0.0000       0.0000
+    31  +0.0000       0.0000
+    41  +0.0000       0.0000
+  Wilson valley charges (band 1):
+    K  : 0.0
+    K': 0.0
+    sum = 0.0
