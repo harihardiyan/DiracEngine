@@ -157,7 +157,7 @@ it is a scientifically meaningful result.
 
 ---
 ### Wilson Loop Phase Distribution
-![Wilson Loop Phase Distribution](figures/wilson_phase_dist.png)
+![Wilson Loop Phase Distribution](figures/phase_dist.png)
 Caption: Phases mostly near 0 (in units of 2π), consistent with trivial Q=0.
 
 ### Masked Plaquettes
@@ -165,7 +165,7 @@ Caption: Phases mostly near 0 (in units of 2π), consistent with trivial Q=0.
 Caption: Red = masked (gap < threshold), center degeneracy at Dirac point.
 
 ### Band Gap Map
-![Band Gap Map](figures/band_gap_map.png)
+![Band Gap Map](figures/gap_map.png)
 Caption: Gap ~1e-21 J near k=0 (dark), higher at edges.
 
 ### Kubo Berry Curvature Along Ring
