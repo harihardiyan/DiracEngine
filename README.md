@@ -156,19 +156,21 @@ This is not a failure of the method —
 it is a scientifically meaningful result.
 
 ---
-## 🔍 Visualizations
-
 ### Wilson Loop Phase Distribution
-![Phase Histogram](figures/phase_hist.png)
+![Wilson Loop Phase Distribution](figures/wilson_phase_hist.png)
+Caption: Phases mostly near 0 (in units of 2π), consistent with trivial Q=0.
 
-### Masked Plaquette Map
+### Masked Plaquettes
 ![Masked Plaquettes](figures/masked_map.png)
+Caption: Red = masked (gap < threshold), center degeneracy at Dirac point.
 
 ### Band Gap Map
-![Gap Map](figures/gap_map.png)
+![Band Gap Map](figures/band_gap_map.png)
+Caption: Gap ~1e-21 J near k=0 (dark), higher at edges.
 
 ### Kubo Berry Curvature Along Ring
-![Kubo Ring](figures/kubo_ring.png)
+![Kubo Along Ring](figures/kubo_ring.png)
+Caption: Oscillatory with large amplitude ~1e40 due to near-degeneracy.
 
 
 
