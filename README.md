@@ -157,7 +157,7 @@ it is a scientifically meaningful result.
 
 ---
 ### Wilson Loop Phase Distribution
-![Wilson Loop Phase Distribution](figures/phase_dist.png)
+![Wilson Loop Phase Distribution](figures/phase_hist.png)
 Caption: Phases mostly near 0 (in units of 2π), consistent with trivial Q=0.
 
 ### Masked Plaquettes
