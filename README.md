@@ -5,8 +5,6 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-green.svg)](https://www.python.org/downloads/)
 [![Framework: JAX](https://img.shields.io/badge/Framework-JAX-orange.svg)](https://github.com/google/jax)
 [![Precision: float64](https://img.shields.io/badge/Precision-float64-red.svg)](#)
-## 🚀 Demo Notebook
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harihardiyan/DiracEngine/blob/main/notebooks/DiracEngine_demo.ipynb)
 **Author:** Hari Hardiyan ([lorozloraz@gmail.com](mailto:lorozloraz@gmail.com))  
 **Field:** Condensed Matter Physics / Computational Topology
