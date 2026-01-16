@@ -257,6 +257,7 @@ See [docs/api.md](docs/api.md) for detailed information on:
 This project is licensed under the **MIT License**.
 
 If you use this software in your research, please cite it as:
-> Hardiyan, H. (2024). DiracEngine: An Audit-Grade Framework for Topological Research in Dirac Systems. GitHub Repository.
+> Hardiyan, H. (2026). DiracEngine: An Audit-Grade Framework for Topological Research in Dirac Systems. GitHub Repository.
 
 **Contact:** Hari Hardiyan - lorozloraz@gmail.com
+This repository is an AI-assisted code artifact generated via prompt orchestration. The author does not claim domain expertise
